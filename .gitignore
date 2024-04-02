@@ -1,0 +1,8 @@
+.vs/
+DataAccessLayer/obj/
+DataAccessLayer/bin/
+DataObjectLayer/obj/
+DataObjectLayer/bin/
+Library_Backend/bin/
+Library_Backend/obj/
+LMSTest/obj/
